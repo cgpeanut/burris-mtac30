@@ -5,3 +5,4 @@ Match your cartridge (or closest equivalent) to get a good idea of where your sh
 [<img src="https://github.com/cgpeanut/burris-mtac30/blob/master/data/burris-tac30-ballistic-CQ.png">]
 ```
 ```
+[https://lrbc.vortexoptics.com/#!/]
